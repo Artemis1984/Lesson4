@@ -5,4 +5,5 @@ public abstract class Animal {
     public String Swim(){
         return "животное заплыло";
     }
+
 }

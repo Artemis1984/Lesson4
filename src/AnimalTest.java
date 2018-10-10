@@ -16,6 +16,7 @@ public class AnimalTest {
         Cat cat2 = new Cat(1200, 300);
         System.out.println(cat2.Run(1000));
         System.out.println(cat1.Swim());
-        
+
+
     }
 }

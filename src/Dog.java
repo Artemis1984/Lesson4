@@ -45,5 +45,4 @@ public class Dog extends Animal {
         }
         return "собака не может плыть больше "+ swimbreakPoint + " метров: " + result;
     }
-
 }

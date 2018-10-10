@@ -37,5 +37,4 @@ public class Cat extends Animal {
         boolean result = false;
         return "кот не умеет плавать: " + result;
     }
-
 }
